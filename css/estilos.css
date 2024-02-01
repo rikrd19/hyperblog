@@ -3,6 +3,8 @@ body
     color: #333;
     text-align: center;
     font-family: "Arial";
+    margin: 0;
+    padding: 0;
 }
 
 #cabecera
@@ -40,4 +42,12 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
